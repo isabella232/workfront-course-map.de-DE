@@ -1,30 +1,30 @@
 ---
-title: Übersicht - Testversand in Workfront im neuen Workfront-Erlebnis
-description: Zuordnen von ersten Workfront-Kursen zu Erlebniskursen in Liga-Kursen
+title: Überblick – Proofing in Workfront im neuen Workfront-Erlebnis
+description: Zuordnen der ersten Workfront-Kurse zu Experience League-Kursen
 exl-id: d475118f-2801-4ba6-ba9b-05c130b4aa0b
 source-git-commit: e1850919d89aafd4cee3a0c7e83a98c71bc33382
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Übersicht - Testversand in Workfront im neuen Workfront-Erlebnis
+# Überblick – Proofing in Workfront im neuen Workfront-Erlebnis
 
-Die folgenden Workfront One Learning Paths:
+Die folgenden Workfront One-Lernpfade:
 
-* Übersicht - Testversand in Workfront im neuen Workfront-Erlebnis
-* Testsendungen im neuen Workfront-Erlebnis überprüfen und genehmigen
-* Workfront für Testbenutzer
-* Verwalten von Überprüfungen und Genehmigungen mit Testsendungen
+* Überblick – Proofing in Workfront im neuen Workfront-Erlebnis
+* Überprüfen und Genehmigen von Korrekturabzügen im neuen Workfront-Erlebnis
+* Workfront für Proofing-Benutzende
+* Verwalten von Überprüfungen und Genehmigungen mit Proofing
 
-zu einem einzigen Experience League-Kurs zusammengefasst wurden, [Workfront-Testversand - Überprüfung und Genehmigung der Arbeit](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof){target="_blank"}.
+wurden zu einem einzigen Experience League-Kurs zusammengefasst: [Workfront-Korrekturabzug – Überprüfen und Genehmigen von Arbeiten](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof&amp;lang=de){target="_blank"}.
 
-Der neue Experience League-Kurs deckt dieselben Lernziele wie die vorherigen Lernpfade ab und wurde nach Möglichkeit optimiert, um ein umfassendes Lernerlebnis zu bieten.  Informieren Sie sich über die gesamte Bibliothek von Workfront-Kursen, Dokumentationen, Tutorials und Communities auf Experience League.
+Der neue Experience League-Kurs deckt dieselben Lernziele wie die vorherigen Lernpfade ab und wurde dahingehend optimiert, ein umfassendes Lernerlebnis zu bieten.  Informieren Sie sich über die gesamte Bibliothek von Workfront-Kursen, -Dokumentationen, -Tutorials und -Communitys auf Experience League.
 
 ## Zusätzliche Ressourcen
 
-* [Workfront-Kurse](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront-Kurse](https://experienceleague.adobe.com/?lang=de&amp;Solution=Workfront#courses)
+* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront.html?lang=de)
+* [Workfront-Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=de)
+* [Workfront-Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

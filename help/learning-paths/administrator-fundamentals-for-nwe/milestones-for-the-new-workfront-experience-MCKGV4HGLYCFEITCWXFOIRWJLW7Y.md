@@ -1,30 +1,30 @@
 ---
 title: Meilensteine
-description: Zuordnen von ersten Workfront-Kursen zu Erlebniskursen in Liga-Kursen
+description: Zuordnen der ersten Workfront-Kurse zu Experience League-Kursen
 exl-id: d2a648a5-14a9-45bb-ba72-53e823a842c6
 source-git-commit: e1850919d89aafd4cee3a0c7e83a98c71bc33382
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 # Meilensteine
 
-Die folgenden vier Workfront One Learning Paths:
+Die vier Workfront One-Lernpfade
 
 * Projektvorlagen
 * Meilensteine
 * Genehmigungsprozesse
-* Probleme beheben
+* Probleme verwalten
 
-zu einem einzigen Experience League-Kurs zusammengefasst wurden, [Weitere Kenntnisse über die Verwaltung der Arbeit als Planer](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners){target="_blank"}.
+wurden zu einem einzigen Experience League-Kurs zusammengefasst: [Weitere Informationen über die Verwaltung von Arbeit bei der Planung](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners){target="_blank"}.
 
-Der neue Experience League-Kurs deckt dieselben Lernziele wie die vorherigen Lernpfade ab und wurde nach Möglichkeit optimiert, um ein umfassendes Lernerlebnis zu bieten.  Informieren Sie sich über die gesamte Bibliothek von Workfront-Kursen, Dokumentationen, Tutorials und Communities auf Experience League.
+Der neue Experience League-Kurs deckt dieselben Lernziele wie die vorherigen Lernpfade ab und wurde dahingehend optimiert, ein umfassendes Lernerlebnis zu bieten.  Informieren Sie sich über die gesamte Bibliothek von Workfront-Kursen, -Dokumentationen, -Tutorials und -Communitys auf Experience League.
 
 ## Zusätzliche Ressourcen
 
-* [Workfront-Kurse](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront-Kurse](https://experienceleague.adobe.com/?lang=de&amp;Solution=Workfront#courses)
+* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront.html?lang=de)
+* [Workfront-Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=de)
+* [Workfront-Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

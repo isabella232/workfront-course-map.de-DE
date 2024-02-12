@@ -1,30 +1,30 @@
 ---
-title: Basisdashboard erstellen
-description: Zuordnen von ersten Workfront-Kursen zu Erlebniskursen in Liga-Kursen
+title: Erstellen eines einfachen Dashboards
+description: Zuordnen der ersten Workfront-Kurse zu Experience League-Kursen
 exl-id: f239d24b-a957-4cfc-be2a-35fb49e6b9c9
 source-git-commit: 904ab74ed838466dc5b0bb25da451632e270c882
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Basisdashboard erstellen
+# Erstellen eines einfachen Dashboards
 
-Die folgenden vier Workfront One Learning Paths:
+Die vier Workfront One-Lernpfade
 
-* Basisdashboard erstellen
-* Erstellen benutzerdefinierter Berichte
-* Berichtseinstellungen
-* Berichte senden und freigeben
+* Erstellen eines einfachen Dashboards
+* Erstellen von benutzerdefinierten Berichten
+* Berichteinstellungen
+* Senden und Freigeben von Berichten
 
-zu einem einzigen Experience League-Kurs zusammengefasst wurden, [Benutzerdefinierte Berichte und Dashboards erstellen](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting){target="_blank"}.
+wurden zu einem einzigen Experience League-Kurs zusammengefasst: [Erstellen von benutzerdefinierten Berichten und Dashboards](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting&amp;lang=de){target="_blank"}.
 
-Der neue Experience League-Kurs deckt dieselben Lernziele wie die vorherigen Lernpfade ab und wurde nach Möglichkeit optimiert, um ein umfassendes Lernerlebnis zu bieten.  Informieren Sie sich über die gesamte Bibliothek von Workfront-Kursen, Dokumentationen, Tutorials und Communities auf Experience League.
+Der neue Experience League-Kurs deckt dieselben Lernziele wie die vorherigen Lernpfade ab und wurde dahingehend optimiert, ein umfassendes Lernerlebnis zu bieten.  Informieren Sie sich über die gesamte Bibliothek von Workfront-Kursen, -Dokumentationen, -Tutorials und -Communitys auf Experience League.
 
 ## Zusätzliche Ressourcen
 
-* [Workfront-Kurse](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront-Kurse](https://experienceleague.adobe.com/?lang=de&amp;Solution=Workfront#courses)
+* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront.html?lang=de)
+* [Workfront-Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=de)
+* [Workfront-Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

@@ -1,31 +1,31 @@
 ---
 title: Metadaten und Keywords
-description: Zuordnen von ersten Workfront-Kursen zu Erlebniskursen in Liga-Kursen
+description: Zuordnen der ersten Workfront-Kurse zu Experience League-Kursen
 exl-id: 02c3baae-8239-4167-9321-82a327f5c2a6
 source-git-commit: 243f842377e58071dd10f285101e68a1adf6893f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Metadaten und Keywords
 
-Die folgenden fünf Workfont One-Lernpfade,
+Die fünf Workfront One-Lernpfade
 
-* Systemeinstellungen
+* System-Setup
 * Metadaten und Keywords
 * Anpassung von Brand Connect
-* Workfront DAM-Benutzer: Mitarbeiter
-* Brand Connect-Benutzer
+* Workfront DAM-Benutzende: Mitwirkende
+* Brand Connect-Benutzende
 
-zu einem einzigen Experience League-Kurs zusammengefasst wurden, [WORKFRONT DAM](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=en){target="_blank"}.
+wurden zu einem einzigen Experience League-Kurs zusammengefasst: [Workfront DAM](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=de){target="_blank"}.
 
-Die neuen Experience League-Tutorials decken dieselben Lernziele ab wie die vorherigen Lernpfade und wurden nach Möglichkeit optimiert, um ein umfassendes Lernerlebnis zu bieten.  Informieren Sie sich über die gesamte Bibliothek von Workfront-Kursen, Dokumentationen, Tutorials und Communities auf Experience League.
+Die neuen Experience League-Tutorials decken dieselben Lernziele wie die vorherigen Lernpfade ab und wurden nach Möglichkeit optimiert, um ein umfassendes Lernerlebnis zu bieten.  Informieren Sie sich über die gesamte Bibliothek von Workfront-Kursen, -Dokumentationen, -Tutorials und -Communitys auf Experience League.
 
 ## Zusätzliche Ressourcen
 
-* [Workfront-Kurse](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront-Kurse](https://experienceleague.adobe.com/?lang=de&amp;Solution=Workfront#courses)
+* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront.html?lang=de)
+* [Workfront-Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=de)
+* [Workfront-Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

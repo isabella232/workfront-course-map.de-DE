@@ -1,17 +1,17 @@
 ---
-title: Verbesserte Analytics
-description: Zuordnen von ersten Workfront-Kursen zu Erlebniskursen in Liga-Kursen
+title: Erweiterte Analyse
+description: Zuordnen der ersten Workfront-Kurse zu Experience League-Kursen
 exl-id: a3aaa1f8-047e-4d5b-9740-3526a378689d
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Verbesserte Analytics
+# Erweiterte Analyse
 
-Wir sind dabei, diesen Kursinhalt für Experience League neu zu erstellen.  Wir entschuldigen uns für jegliche Unannehmlichkeiten.  Wir erwarten, dass dieser Kursinhalt bald online sein wird.
+Wir sind dabei, diesen Kursinhalt für Experience League neu zu erstellen. Wir bitten, eventuelle Unannehmlichkeiten zu entschuldigen. Wir erwarten, dass dieser Kursinhalt bald online sein wird.
 
 <!---Learn how to manage your current work and plan future work more accurately by identifying data trends.
 
@@ -94,7 +94,7 @@ Wir sind dabei, diesen Kursinhalt für Experience League neu zu erstellen.  Wir 
 
 ## Zusätzliche Ressourcen
 
-* [Workfront-Kurse](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront-Kurse](https://experienceleague.adobe.com/?lang=de&amp;Solution=Workfront#courses)
+* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront.html?lang=de)
+* [Workfront-Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=de)
+* [Workfront-Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
